@@ -1,10 +1,8 @@
-💻 Exercícios de Pilares da POO em Java
-
 Este repositório contém exercícios práticos sobre os pilares da Programação Orientada a Objetos (POO) em Java, voltados para fixar os conceitos fundamentais da linguagem e da programação orientada a objetos.
 
 O objetivo é que o estudante entenda e aplique: Encapsulamento, Herança, Polimorfismo e Abstração, construindo pequenos programas didáticos para reforçar o aprendizado.
 
-🧱 Conteúdo dos exercícios
+ Conteúdo dos exercícios
 1️⃣ Encapsulamento
 
 Criação de atributos privados em classes
